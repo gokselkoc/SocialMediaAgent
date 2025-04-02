@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Veri Silme Talimatları</title>
+</head>
+<body>
+  <h1>Veri Silme Talimatları</h1>
+  <p>Bu uygulama kullanıcı verilerini doğrudan depolamaz.</p>
+  <p>Eğer uygulamaya verdiğiniz izinleri kaldırmak veya verilerinizi silmek isterseniz, aşağıdaki adımları izleyebilirsiniz:</p>
+
+  <h3>Instagram'dan izinleri kaldırmak için:</h3>
+  <ol>
+    <li>Instagram hesabınıza giriş yapın.</li>
+    <li>Profilinizden Ayarlar > Uygulamalar ve Web Siteleri sekmesine gidin.</li>
+    <li>“Etkin” sekmesinden bu uygulamayı bulun ve “Kaldır” seçeneğine tıklayın.</li>
+  </ol>
+
+  <p>Veri silme talepleriniz için bizimle <a href="mailto:your@email.com">your@email.com</a> adresinden iletişime geçebilirsiniz.</p>
+</body>
+</html>
