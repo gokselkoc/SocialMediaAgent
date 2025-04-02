@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Hizmet Şartları</title>
+</head>
+<body>
+  <h1>Hizmet Şartları</h1>
+  <p>Bu uygulama, yalnızca Instagram API üzerinden içerik oluşturmak ve paylaşmak amacıyla geliştirilmiştir.</p>
+  <p>Kullanıcılar, bu hizmeti kullanarak uygulamanın içerik oluşturma ve yayınlama yetkilerini kullanmasına izin vermektedir.</p>
+  <p>Uygulama, kullanıcı verilerini yalnızca kullanıcı izniyle işler ve hiçbir veriyi üçüncü taraflarla paylaşmaz.</p>
+  <p>Hizmet tamamen ücretsizdir ve kullanıcıya hiçbir ticari taahhüt sunmaz.</p>
+  <p>Meta'nın (Instagram) API politikalarına ve kullanım koşullarına tam uyumluluk sağlanır.</p>
+</body>
+</html>
